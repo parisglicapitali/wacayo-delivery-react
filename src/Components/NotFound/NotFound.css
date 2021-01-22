@@ -1,0 +1,11 @@
+.not-found h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.not-found #not-found-icon{
+    width: 200px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
